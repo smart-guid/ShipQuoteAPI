@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipQuoteAPI", "ShipQuoteAPI\ShipQuoteAPI.csproj", "{392414D8-7542-4A8D-B8F1-E1488CE01670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipQuoteAPITest", "ShipQuoteAPITest\ShipQuoteAPITest.csproj", "{4950E5CD-7A68-4E4E-B644-75D60A84D7F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392414D8-7542-4A8D-B8F1-E1488CE01670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392414D8-7542-4A8D-B8F1-E1488CE01670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392414D8-7542-4A8D-B8F1-E1488CE01670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392414D8-7542-4A8D-B8F1-E1488CE01670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4950E5CD-7A68-4E4E-B644-75D60A84D7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4950E5CD-7A68-4E4E-B644-75D60A84D7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4950E5CD-7A68-4E4E-B644-75D60A84D7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4950E5CD-7A68-4E4E-B644-75D60A84D7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFE89809-C89A-4F1E-AFF6-125A95AD890C}
+	EndGlobalSection
+EndGlobal
